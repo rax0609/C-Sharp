@@ -1,0 +1,79 @@
+﻿<Window x:Class="BMICalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:BMICalculator"
+        Title="BMI 計算器" Height="450" Width="800" WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <!-- 定義資源 -->
+    <Window.Resources>
+        <!-- 按鈕樣式 -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#6c63ff"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border Background="{TemplateBinding Background}" CornerRadius="22" />
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#827aff"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#5a4de3"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- 陰影效果 -->
+        <DropShadowEffect x:Key="DropShadow" Color="Black" BlurRadius="20" ShadowDepth="0" Opacity="0.5"/>
+    </Window.Resources>
+
+    <!-- 設定背景為線性漸變 -->
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#1e1e2f" Offset="0"/>
+            <GradientStop Color="#2d2d44" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <!-- 主容器 -->
+        <Border CornerRadius="20" Background="#2d2d44" Padding="30" HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Effect="{StaticResource DropShadow}">
+            <StackPanel>
+                <TextBlock Text="BMI 計算器" FontSize="28" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,20" FontFamily="Segoe UI"/>
+
+                <!-- 身高輸入 -->
+                <StackPanel Margin="0,0,0,10">
+                    <TextBlock Text="身高 (公分)" Foreground="LightGray" FontSize="14" FontFamily="Segoe UI"/>
+                    <TextBox Name="HeightTextBox" Height="40" Background="#3e3e5e" Foreground="White" BorderBrush="Transparent" Padding="10" FontSize="16" FontFamily="Segoe UI" />
+                </StackPanel>
+
+                <!-- 體重輸入 -->
+                <StackPanel Margin="0,0,0,20">
+                    <TextBlock Text="體重 (公斤)" Foreground="LightGray" FontSize="14" FontFamily="Segoe UI"/>
+                    <TextBox Name="WeightTextBox" Height="40" Background="#3e3e5e" Foreground="White" BorderBrush="Transparent" Padding="10" FontSize="16" FontFamily="Segoe UI" />
+                </StackPanel>
+
+                <!-- 計算按鈕 -->
+                <Button Content="計算 BMI" Height="45" Click="CalculateBMI_Click">
+                    <Button.Effect>
+                        <DropShadowEffect Color="#6c63ff" BlurRadius="20" ShadowDepth="0" />
+                    </Button.Effect>
+                </Button>
+
+                <!-- 結果顯示 -->
+                <TextBlock Name="ResultTextBlock" FontSize="20" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="20,30,20,0" FontFamily="Segoe UI"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

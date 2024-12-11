@@ -1,0 +1,14 @@
+c:\code\stust\C#\20240911\hellow_world\bin\Debug\net8.0\hellow_world.exe
+c:\code\stust\C#\20240911\hellow_world\bin\Debug\net8.0\hellow_world.deps.json
+c:\code\stust\C#\20240911\hellow_world\bin\Debug\net8.0\hellow_world.runtimeconfig.json
+c:\code\stust\C#\20240911\hellow_world\bin\Debug\net8.0\hellow_world.dll
+c:\code\stust\C#\20240911\hellow_world\bin\Debug\net8.0\hellow_world.pdb
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.AssemblyInfoInputs.cache
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.AssemblyInfo.cs
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.csproj.CoreCompileInputs.cache
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.dll
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\refint\hellow_world.dll
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.pdb
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\hellow_world.genruntimeconfig.cache
+c:\code\stust\C#\20240911\hellow_world\obj\Debug\net8.0\ref\hellow_world.dll

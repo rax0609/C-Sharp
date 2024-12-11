@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\stust\\C#\\20240918\\BMICalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF28AA-B096-4837-A341-7FCB54CEA6B8}|BMICalculator\\BMICalculator.csproj|c:\\code\\stust\\c#\\20240918\\bmicalculator\\bmicalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9ABF28AA-B096-4837-A341-7FCB54CEA6B8}|BMICalculator\\BMICalculator.csproj|solutionrelative:bmicalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF28AA-B096-4837-A341-7FCB54CEA6B8}|BMICalculator\\BMICalculator.csproj|c:\\code\\stust\\c#\\20240918\\bmicalculator\\bmicalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF28AA-B096-4837-A341-7FCB54CEA6B8}|BMICalculator\\BMICalculator.csproj|solutionrelative:bmicalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\code\\stust\\C#\\20240918\\BMICalculator\\BMICalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BMICalculator\\MainWindow.xaml",
+              "ToolTip": "C:\\code\\stust\\C#\\20240918\\BMICalculator\\BMICalculator\\MainWindow.xaml",
+              "RelativeToolTip": "BMICalculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T03:38:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\code\\stust\\C#\\20240918\\BMICalculator\\BMICalculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BMICalculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\code\\stust\\C#\\20240918\\BMICalculator\\BMICalculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BMICalculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:38:29.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
