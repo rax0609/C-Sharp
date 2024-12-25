@@ -19,3 +19,4 @@ C:\code\stust\C#\20241204\test1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1
 C:\code\stust\C#\20241204\test1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
 C:\code\stust\C#\20241204\test1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
 C:\code\stust\C#\20241204\test1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\code\stust\C#\20241204\test1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json

@@ -48,21 +48,8 @@
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\code\\stust\\C#\\20241204\\test1\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
-              "ToolTip": "C:\\code\\stust\\C#\\20241204\\test1\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
-              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:41:46.159Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -73,8 +60,7 @@
               "RelativeToolTip": "WpfApp1\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:39:49.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:39:49.968Z"
             },
             {
               "$type": "Document",
@@ -86,8 +72,7 @@
               "RelativeToolTip": "WpfApp1\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:39:57.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:39:57.376Z"
             },
             {
               "$type": "Document",
@@ -99,8 +84,7 @@
               "RelativeToolTip": "WpfApp1\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:39:50.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:39:50.2Z"
             },
             {
               "$type": "Document",
@@ -112,8 +96,7 @@
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:24:31.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T05:24:31.967Z"
             },
             {
               "$type": "Document",
@@ -126,6 +109,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-04T01:31:22.231Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\code\\stust\\C#\\20241204\\test1\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\code\\stust\\C#\\20241204\\test1\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:41:46.159Z"
             }
           ]
         }
