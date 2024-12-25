@@ -64,6 +64,4 @@
         public Links _links { get; set; }
         public List<Record> records { get; set; }
     }
-
-
 }
